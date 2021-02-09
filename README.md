@@ -6,6 +6,8 @@ where no keyboard is available.
 Installation
 ------------
 
+Dependency: libXtst-devel (void) or libxtst-dev (ubuntu).
+
 	% make
 	% make install
 
